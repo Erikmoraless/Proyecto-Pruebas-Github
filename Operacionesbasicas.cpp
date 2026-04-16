@@ -31,7 +31,7 @@ int main()
     
     cout << "Resultado de la multiplicacion: " << rm << endl;
     
-    // Division
+    // Validar division
     if (n2 != 0) {
         rd = (float) n1 / n2;
         cout << "Resultado de la division: " << rd << endl;
